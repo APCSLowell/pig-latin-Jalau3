@@ -47,7 +47,7 @@ public class PigLatin {
 	    if(num == -1) {
 		    return sWord + "ay";
 	    }
-	    else if(if(num == 0) {
+	    else if(num == 0) {
 		    return sWord+"way";
 	    }
 	    else if(sWord.substring(0,2).equals("qu")){
